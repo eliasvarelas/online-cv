@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p18vare@ionio.gr
+    #email: p18vare@ionio.gr
     email: hliasvarelas3113@gmail.com
     phone: +306989422709
     timezone: Athens Timezone
@@ -43,6 +43,9 @@ sidebar:
           link:
 
         - item: Lifeguarding
+          link:
+        
+        - item: Driving
           link:
 career-profile:
     title: Career Profile
@@ -79,7 +82,7 @@ experiences:
         time: 2022 - 2023
         company: Hellenic Army
         details: |
-          I also served my time in the military working as a communications specialist, working with wireless communication networks and fixing-maintaining 
+          I also served my time in the military working as a communications specialist, deploying wireless communication networks and fixing-maintaining 
           pre-existing servers and network installations. Serving in the military taught me a lot about working with others in a large and hierarchical scale,
           obeying orders and keeping a tight schedule was a happy addition to my well build discipline.
 
@@ -114,3 +117,15 @@ skills:
 
       - name: Linux Commands
         level: 80%
+        
+    title: Hardware Skills
+
+    toolset:
+      - name: Computer Repairs
+        level: 90%
+      
+     - name: Server Repairs/Maintnance
+       level: 75%
+       
+     - name: Radio Maintnance
+       level: 40%
