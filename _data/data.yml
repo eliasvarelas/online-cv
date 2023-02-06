@@ -93,7 +93,7 @@ publications:
         authors: Elias-Vasileios Varelas
 
 skills:
-    title: Programming Skills
+    title: My Skills
     toolset:
       - name: HTML5 & CSS
         level: 95%
@@ -101,8 +101,14 @@ skills:
       - name: PHP
         level: 90%
         
+      - name: Computer Repairs
+        level: 90%
+        
       - name: Linux Commands
         level: 80%
+        
+      - name: Server Repairs/Maintnance
+        level: 75%
 
       - name: Wordpress
         level: 60%
@@ -116,13 +122,5 @@ skills:
       - name: Javascript & jQuery
         level: 40%
         
-    title: Hardware Skills
-    toolset:
-      - name: Computer Repairs
-        level: 90%
-      
-      - name: Server Repairs/Maintnance
-        level: 75%
-       
       - name: Radio Maintnance
         level: 40%
