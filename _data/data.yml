@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -97,26 +97,26 @@ skills:
    title: Programming Skills
 
    toolset:
-      - name: PHP
-        level: 90%
-
-      - name: Javascript & jQuery
-        level: 40%
-
-      - name: C / C++
-        level: 50%
-
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Python
-        level: 55%
+      
+      - name: PHP
+        level: 90%
+        
+      - name: Linux Commands
+        level: 80%
 
       - name: Wordpress
         level: 60%
+        
+      - name: Python
+        level: 55%
+        
+      - name: C / C++
+        level: 50%
 
-      - name: Linux Commands
-        level: 80%    
+      - name: Javascript & jQuery
+        level: 40%
    title: Hardware Skills
 
    toolset:
