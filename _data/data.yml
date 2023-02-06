@@ -94,9 +94,8 @@ publications:
         authors: Elias-Vasileios Varelas
 
 skills:
-   title: Programming Skills
-
-   toolset:
+    title: Programming Skills
+    toolset:
       - name: HTML5 & CSS
         level: 95%
       
@@ -118,7 +117,6 @@ skills:
       - name: Javascript & jQuery
         level: 40%
    title: Hardware Skills
-
    toolset:
       - name: Computer Repairs
         level: 90%
