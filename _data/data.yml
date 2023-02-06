@@ -12,14 +12,12 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    #email: p18vare@ionio.gr
     email: hliasvarelas3113@gmail.com
     phone: +306989422709
     timezone: Athens Timezone
     linkedin: elias-varelas-526391b8
     github: hlias31
     stack-overflow: 15214068/eliasvarelas
-    #pdf: http://www.africau.edu/images/de
 
     languages:
       title: Languages
@@ -47,6 +45,7 @@ sidebar:
         
         - item: Driving
           link:
+          
 career-profile:
     title: Career Profile
     summary: |
@@ -116,13 +115,13 @@ skills:
 
       - name: Javascript & jQuery
         level: 40%
-   title: Hardware Skills
-   toolset:
+    title: Hardware Skills
+    toolset:
       - name: Computer Repairs
         level: 90%
       
-     - name: Server Repairs/Maintnance
-       level: 75%
+      - name: Server Repairs/Maintnance
+        level: 75%
        
-     - name: Radio Maintnance
-       level: 40%
+      - name: Radio Maintnance
+        level: 40%
