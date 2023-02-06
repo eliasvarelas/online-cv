@@ -94,9 +94,9 @@ publications:
         authors: Elias-Vasileios Varelas
 
 skills:
-    title: Programming Skills
+   title: Programming Skills
 
-    toolset:
+   toolset:
       - name: PHP
         level: 90%
 
@@ -116,11 +116,10 @@ skills:
         level: 60%
 
       - name: Linux Commands
-        level: 80%
-        
-    title: Hardware Skills
+        level: 80%    
+   title: Hardware Skills
 
-    toolset:
+   toolset:
       - name: Computer Repairs
         level: 90%
       
