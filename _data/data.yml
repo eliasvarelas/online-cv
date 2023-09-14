@@ -102,6 +102,9 @@ skills:
       - name: Server Repairs/Maintnance
         level: 75%
 
+      - name: SoftONE ERP
+        level: 70%
+
       - name: Wordpress
         level: 60%
         
@@ -117,8 +120,6 @@ skills:
       - name: Radio Maintnance
         level: 40%
 
-      - name: SoftONE ERP
-        level: 40%
 projects:
     title: Courses
     intro: >
