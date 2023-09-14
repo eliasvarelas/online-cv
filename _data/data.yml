@@ -125,22 +125,42 @@ projects:
       Here is a list with some of my favorite classes i attended: 
     assignments:
       - title: Networks I & II, Ionian University
-        time: January 2019 - June 2019
+        <br>
         tagline: "Studied different types, technologies and architectures of Networks. Also studied how to implement them, how to maintain them as well as how to adapt them according to the needs of the organization."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Bioinformatics, Ionian University
+      <br>
+        tagline: "Studied how to search for a specific gene in a DNA Pool, how to retrieve proteins with a specific capabilities from enormous databases, how toidentify the family of proteins that a single DNA sequence originates from. I also studied the de-facto model of representing DNA sequences orproteins to algorithms, known as FASTA format."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: E-Business and E-Commerce, Ionian University
+       <br>
+        tagline: "Studied how create an E-shop. How to recognise a profitable shop/organisation. How to calculate shipping, storing and manufacturing expencesbased on the nature of the shop/organisation. Also during this class, i created an E-shop in which I sold technology items, such as ComputerHardware, TVs, Mobile Smartphones, Gaming Peripherals etc."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Computer Architecture, Ionian University
+        <br>
+        tagline: "Studied the architecture of the Central Processing Unit of a modern day computer. Learned about his processes, his logical computing as well as the methods and resources it is using to become the brain of the computer."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Statistics, Ionian University
+       <br>
+        tagline: "Studied statistical theory, such as discrete distribution functions (i.e. Poisson Distribution). Also as a part of this class I handled large dataregarding earthquakes that took place in Greece from the years of 2000-2010 and printed graphs based on distribution functions using theprogram SPSS as well as some Python scripts."
+
+      - title: Cryptography I & II, Ionian University
+       <br>
+        tagline: "Studied ciphering and de-ciphering algorithms, methods of encryption, such as symmetric and asymmetric encryption, performed Capture TheFlag exercises and simulated attacks against virtual networks, both secured and unsecured."
+     
+      - title: Computer Security and Data Protection, Ionian University
+       <br>
+        tagline: "Studied modern day methods of keeping a network secured from attackers."
+     
+      - title: Policies and Technologies for Privacy Protection, Ionian University
+        <br>
+        tagline: "Studied the GDPR regulation of the European Union. Performed Risk assessments in simulated organizations."
+     
+      - title: Information Systems and Supply Chain, Ionian University
+       <br>
+        tagline: "Studied how an organisation's supply chain is structured. Learned about the usage of the ERP's and completed exercises simulating the usage ofa specific ERP (TRYTON) in a moving company."
+     
+      - title: Thesis, Ionian University
+      <br>
+        tagline: "The subject of my Thesis was 'An Information System for Patients with Multiple Sclerosis'. I created a web application that is used byneurologists in order to enter data about their patients' Neurodegenerative disease and keep easy track of it."
 
