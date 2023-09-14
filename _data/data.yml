@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: hliasvarelas3113@gmail.com
     phone: 6989422709
-    timezone: Athens Timezone
+    #timezone: Athens Timezone
     linkedin: elias-varelas-526391b8
-    github: hlias31
+    #github: eliasvarelas
     stack-overflow: 15214068/eliasvarelas
 
     languages:
@@ -50,10 +50,7 @@ career-profile:
     title: My Profile
     summary: |
       Hey! My name is Elias Varelas and I am an graduate student of Ionian University, Department
-      of Informatics, based in Corfu, Greece. I was born in Alexandroupolis, which is located at the north-eastern part of Greece.
-      I began experimenting with computers at the age of 7, first as a part of a big gaming community such as World of Warcraft and as I got older, 
-      I started experimenting with hardware. At the age of 13 years old, I built my first gaming Computer. Up until this day, I still find interest in fixing
-      old hardware and repurposing it to serve some everyday purpose.
+      of Informatics, based in Corfu, Greece. This page is just a complementary addition to my CV! It prints basic information about me, and compiles a list of the courses i attended plus some of my skills
 education:
     title: Education
     info:
@@ -96,12 +93,6 @@ publications:
 skills:
     title: My Skills
     toolset:
-      - name: HTML5 & CSS
-        level: 95%
-      
-      - name: PHP
-        level: 90%
-        
       - name: Computer Repairs
         level: 90%
         
@@ -125,5 +116,14 @@ skills:
         
       - name: Radio Maintnance
         level: 40%
+
+      - name: SoftONE ERP
+        level: 40%
 Courses:
-    Title:
+    Title: Networks I & II, Ionian University
+    info:
+      - time: January 2019 - June 2019
+        details: |
+            Studied different types, technologies and architectures of Networks. Also studied how to implement them, how to maintain them as well as how to adapt them according to the needs of the organization.
+
+
