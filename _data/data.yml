@@ -119,11 +119,28 @@ skills:
 
       - name: SoftONE ERP
         level: 40%
-courses:
-    Title: Networks I & II, Ionian University
-    info:
-      - time: January 2019 - June 2019
-        details: |
-            Studied different types, technologies and architectures of Networks. Also studied how to implement them, how to maintain them as well as how to adapt them according to the needs of the organization.
+projects:
+    title: Courses
+    intro: >
+      Here is a list with some of my favorite classes i attended: 
+    assignments:
+      - title: Networks I & II, Ionian University
+        time: January 2019 - June 2019
+        tagline: "Studied different types, technologies and architectures of Networks. Also studied how to implement them, how to maintain them as well as how to adapt them according to the needs of the organization."
 
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
