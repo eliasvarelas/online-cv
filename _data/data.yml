@@ -165,3 +165,9 @@ projects:
       
         tagline: "The subject of my Thesis was 'An Information System for Patients with Multiple Sclerosis'. I created a web application that is used byneurologists in order to enter data about their patients' Neurodegenerative disease and keep easy track of it."
 
+certifications:
+      title: Conferences
+      list:
+        - name: GeNeDis Conference, Ionian University & John Hopkins USA
+ details: |
+     Participated in the GeNeDis Conference, hosted by the Ionian University, regarding the progression and scientific exploration of the Science of Informatics towards the fight against Neurodegenerative Diseases. It was a crucial contribution to the completion of my University Thesis.
