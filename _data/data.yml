@@ -49,7 +49,10 @@ sidebar:
 career-profile:
     title: My Profile
     summary: |
-      Hey! My name is Elias Varelas and I am an graduate student of Ionian University, Department of Informatics, based in Corfu, Greece. This page is just a complementary addition to my [**<ins>CV (link)</ins>**](https://drive.google.com/file/d/1tPOSh_9TYAnVaPDt6j62kZLjto8EhCl8/view?usp=sharing)! It prints basic information about me, and compiles a list of the courses i attended plus some of my skills.
+      Hey! My name is Elias Varelas and I am an graduate student of Ionian University, Department of Informatics, based in Corfu, Greece. 
+      This page is just a complementary addition to my [**<ins>CV (link)</ins>**](https://drive.google.com/file/d/1tPOSh_9TYAnVaPDt6j62kZLjto8EhCl8/view?usp=sharing)! 
+      It prints basic information about me, and compiles a list of the courses i attended plus some of my skills.
+
 education:
     title: Education
     info:
@@ -60,7 +63,7 @@ education:
           The Ionian University has taught me how to work with others, how to form new connections with people of same interests. On the technical aspect of my degree,
           I learned the usage of programming languages such as C, C++, Python, Java, PHP, Javascript, MySQL, Oracle SQL,
           HTML4, HTML5 CSS. I completed my thesis which was the creation of an online Information System with the purpose of assisting Neurologists with managing their patients
-          as well as keep track of their patients' health, more specifically, tracking patient medication, symptoms and scales of neurodegeneration in their brain, amongst other things.
+          as well as keep track of their patients health, more specifically, tracking patient medication, symptoms and scales of neurodegeneration in their brain, amongst other things.
           
 experiences:
     title: Experiences
