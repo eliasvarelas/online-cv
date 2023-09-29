@@ -50,7 +50,8 @@ career-profile:
     title: My Profile
     summary: |
       Hey! My name is Elias Varelas and I am an graduate student of Ionian University, Department
-      of Informatics, based in Corfu, Greece. This page is just a complementary addition to my CV! It prints basic information about me, and compiles a list of the courses i attended plus some of my skills
+      of Informatics, based in Corfu, Greece. This page is just a complementary addition to my CV! It prints basic information about me, and compiles a list of the courses i attended plus some of my skills.
+
 education:
     title: Education
     info:
@@ -58,10 +59,10 @@ education:
         university: Ionian University
         time: 2018 - 2022
         details: |
-          The Ionian University, so far, has taught me how to work with others, how to form new connections with people of same interests. On the technical aspect of my degree,
+          The Ionian University has taught me how to work with others, how to form new connections with people of same interests. On the technical aspect of my degree,
           I learned the usage of programming languages such as C, C++, Python, Java, PHP, Javascript, MySQL, Oracle SQL,
-          HTML4, HTML5 CSS. I completed my thesis which was the create of an online Information System with the purpose of assisting Neurologists with managing their patients
-          as well as keep track of their patients' health, more specifically, tracking patient medication, symptoms, scales of neurodegeneration in their brain, amongst other things.
+          HTML4, HTML5 CSS. I completed my thesis which was the creation of an online Information System with the purpose of assisting Neurologists with managing their patients
+          as well as keep track of their patients' health, more specifically, tracking patient medication, symptoms and scales of neurodegeneration in their brain, amongst other things.
           
 experiences:
     title: Experiences
@@ -178,7 +179,7 @@ projects:
      
       - title: Thesis, Ionian University
       
-        tagline: "The subject of my Thesis was 'An Information System for Patients with Multiple Sclerosis'. I created a web application that is used byneurologists in order to enter data about their patients' Neurodegenerative disease and keep easy track of it."
+        tagline: "The subject of my Thesis was 'An Information System for Patients with Multiple Sclerosis'. I created a web application that is used by neurologists in order to enter data about their patients' Neurodegenerative disease and keep easy track of it."
 
 certifications:
       title: Conferences
