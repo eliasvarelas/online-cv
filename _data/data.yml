@@ -16,7 +16,7 @@ sidebar:
     phone: 6989422709
     #timezone: Athens Timezone
     linkedin: elias-varelas-526391b8
-    #github: eliasvarelas
+    github: eliasvarelas
     stack-overflow: 15214068/eliasvarelas
 
     languages:
@@ -98,12 +98,27 @@ skills:
         
       - name: Linux Commands
         level: 80%
+
+      - name: GitHub
+        level: 80%
         
       - name: Server Repairs/Maintnance
         level: 75%
 
       - name: SoftONE ERP
         level: 70%
+
+      - name: PHP
+        level: 70%
+
+      - name: HTML5
+        level: 70%
+
+      - name: CSS
+        level: 70%
+
+      - name: SQL
+        level: 65%
 
       - name: Wordpress
         level: 60%
